@@ -39,5 +39,6 @@ No estado atual, 26 dos 38 testes passam. Os outros 12 esperam funções de fim 
 | `OrbitaN.py` | Implementação principal das operações de posição, pedra e tabuleiro. |
 | `test_public.py` | Testes públicos das operações e funcionalidades esperadas do projeto. |
 | `requirements-dev.txt` | Dependência de desenvolvimento para executar os testes. |
+| `FP-2024-P2_V2.pdf` | Enunciado do projeto fornecido para a cadeira. |
 
-O PDF do enunciado e uma cópia de trabalho com nome de computador são materiais locais e não fazem parte do repositório.
+A cópia de trabalho com nome de computador é um material local e não faz parte deste repositório.

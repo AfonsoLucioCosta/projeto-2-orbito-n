@@ -41,4 +41,4 @@ No estado atual, 26 dos 38 testes passam. Os outros 12 esperam funções de fim 
 | `requirements-dev.txt` | Dependência de desenvolvimento para executar os testes. |
 | `FP-2024-P2_V2.pdf` | Enunciado do projeto fornecido para a cadeira. |
 
-A cópia de trabalho com nome de computador é um material local e não faz parte deste repositório.
+
